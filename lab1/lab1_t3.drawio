@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T08:18:10.065Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="W8z3A9I6WsfR0rNQn07j" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T08:19:32.325Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="s_1MAiG8RZ5etUr6myg8" version="22.0.2" type="github">
   <diagram name="Страница — 1" id="HEkqbumlcw84zHXEJl8H">
-    <mxGraphModel dx="2234" dy="1171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2849" dy="1501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XJhYYw2cQEGLfJjtBbyS-1" value="Прийом співробітника на роботу" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="-185" width="2838" height="912" as="geometry" />
+          <mxGeometry x="-520" y="-185" width="1875" height="912" as="geometry" />
         </mxCell>
         <mxCell id="XJhYYw2cQEGLfJjtBbyS-4" value="Кандидат на посаду" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-496" y="254" width="2814" height="473" as="geometry" />
+          <mxGeometry x="-496" y="254" width="1850" height="473" as="geometry" />
         </mxCell>
         <mxCell id="1G5EOY4C8jy5DTyf7jeD-96" value="" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" parent="XJhYYw2cQEGLfJjtBbyS-4" vertex="1">
           <mxGeometry x="1218.5" y="27" width="67" height="91" as="geometry" />
@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1G5EOY4C8jy5DTyf7jeD-3" value="Відділ кадрів (HR)" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-496" y="-186" width="2816" height="440" as="geometry" />
+          <mxGeometry x="-496" y="-186" width="1852" height="440" as="geometry" />
         </mxCell>
         <mxCell id="1G5EOY4C8jy5DTyf7jeD-12" value="Перевірити резюме" style="rounded=1;whiteSpace=wrap;html=1;" parent="1G5EOY4C8jy5DTyf7jeD-3" vertex="1">
           <mxGeometry x="287" y="206" width="120" height="60" as="geometry" />
